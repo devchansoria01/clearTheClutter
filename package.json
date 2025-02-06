@@ -1,0 +1,13 @@
+{
+  "name": "cleartheclutter",
+  "version": "1.0.0",
+  "description": "Used to manage different types of files , images , videos , etc in specific folders.",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
